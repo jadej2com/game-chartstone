@@ -1,0 +1,3144 @@
+fileFormatVersion: 2
+guid: 6b72cf0da30c7654f993e51f5907c33b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6601129022284468515
+    second: Overlay_illumination_0
+  - first:
+      213: -5313214185021601167
+    second: Overlay_illumination_1
+  - first:
+      213: -5319770999599529
+    second: Overlay_illumination_2
+  - first:
+      213: 9012258463722251732
+    second: Overlay_illumination_3
+  - first:
+      213: 639674510018966663
+    second: Overlay_illumination_4
+  - first:
+      213: -3422675591698543929
+    second: Overlay_illumination_5
+  - first:
+      213: -8695959689630954792
+    second: Overlay_illumination_6
+  - first:
+      213: -4109765727780435815
+    second: Overlay_illumination_7
+  - first:
+      213: 8726497096912916714
+    second: Overlay_illumination_8
+  - first:
+      213: 476522381893335077
+    second: Overlay_illumination_9
+  - first:
+      213: 5568775548288915479
+    second: Overlay_illumination_10
+  - first:
+      213: -6341515909716829892
+    second: Overlay_illumination_11
+  - first:
+      213: -7079542991262103048
+    second: Overlay_illumination_12
+  - first:
+      213: -428514972110353472
+    second: Overlay_illumination_13
+  - first:
+      213: 6470284240600829370
+    second: Overlay_illumination_14
+  - first:
+      213: -6794910270308690473
+    second: Overlay_illumination_15
+  - first:
+      213: -6376046592861558571
+    second: Overlay_illumination_16
+  - first:
+      213: -3363105818773203760
+    second: Overlay_illumination_17
+  - first:
+      213: -5119362651074570609
+    second: Overlay_illumination_18
+  - first:
+      213: 4747881260608489106
+    second: Overlay_illumination_19
+  - first:
+      213: 5561813530935237543
+    second: Overlay_illumination_20
+  - first:
+      213: -5093428121941751791
+    second: Overlay_illumination_21
+  - first:
+      213: -1836086842538615553
+    second: Overlay_illumination_22
+  - first:
+      213: 1491351098211289926
+    second: Overlay_illumination_23
+  - first:
+      213: -2531178405833046311
+    second: Overlay_illumination_24
+  - first:
+      213: -2978235786549380175
+    second: Overlay_illumination_25
+  - first:
+      213: -1361017309106697361
+    second: Overlay_illumination_26
+  - first:
+      213: 3393021455436457733
+    second: Overlay_illumination_27
+  - first:
+      213: 1515376645604347729
+    second: Overlay_illumination_28
+  - first:
+      213: -2291669152660063242
+    second: Overlay_illumination_29
+  - first:
+      213: 7269562897134457611
+    second: Overlay_illumination_30
+  - first:
+      213: -2696342355937678917
+    second: Overlay_illumination_31
+  - first:
+      213: -3645915693836825463
+    second: Overlay_illumination_32
+  - first:
+      213: -6024515266591156502
+    second: Overlay_illumination_33
+  - first:
+      213: -6033232205320792965
+    second: Overlay_illumination_34
+  - first:
+      213: -3071539465016580118
+    second: Overlay_illumination_35
+  - first:
+      213: 1886597230695249721
+    second: Overlay_illumination_36
+  - first:
+      213: 6667745563188682533
+    second: Overlay_illumination_37
+  - first:
+      213: -7408209839608454731
+    second: Overlay_illumination_38
+  - first:
+      213: -7479844447523728646
+    second: Overlay_illumination_39
+  - first:
+      213: -5548104874545062807
+    second: Overlay_illumination_40
+  - first:
+      213: -8040815702099745674
+    second: Overlay_illumination_41
+  - first:
+      213: -8327639371342193775
+    second: Overlay_illumination_42
+  - first:
+      213: -364335143170957071
+    second: Overlay_illumination_43
+  - first:
+      213: 6445527844998983887
+    second: Overlay_illumination_44
+  - first:
+      213: 6101153815941546797
+    second: Overlay_illumination_45
+  - first:
+      213: -6922868281145263650
+    second: Overlay_illumination_46
+  - first:
+      213: 5136684683963337468
+    second: Overlay_illumination_47
+  - first:
+      213: 752631203745795549
+    second: Overlay_illumination_48
+  - first:
+      213: 5688081991394758447
+    second: Overlay_illumination_49
+  - first:
+      213: -706554266793488196
+    second: Overlay_illumination_50
+  - first:
+      213: 1303677763042329784
+    second: Overlay_illumination_51
+  - first:
+      213: 1222057804035948290
+    second: Overlay_illumination_52
+  - first:
+      213: -5179070415799729039
+    second: Overlay_illumination_53
+  - first:
+      213: 4621025634231492756
+    second: Overlay_illumination_54
+  - first:
+      213: -2312212234382032923
+    second: Overlay_illumination_55
+  - first:
+      213: -3217893552748240608
+    second: Overlay_illumination_56
+  - first:
+      213: -7447840682964658293
+    second: Overlay_illumination_57
+  - first:
+      213: 249545411406015482
+    second: Overlay_illumination_58
+  - first:
+      213: 7849285581097062605
+    second: Overlay_illumination_59
+  - first:
+      213: 6650569782306701276
+    second: Overlay_illumination_60
+  - first:
+      213: -5231631117530144669
+    second: Overlay_illumination_61
+  - first:
+      213: 659990558886713861
+    second: Overlay_illumination_62
+  - first:
+      213: 9034500888373787296
+    second: Overlay_illumination_63
+  - first:
+      213: -3285861973304849711
+    second: Overlay_illumination_64
+  - first:
+      213: 5400621204014489651
+    second: Overlay_illumination_65
+  - first:
+      213: 1702894524324773243
+    second: Overlay_illumination_66
+  - first:
+      213: -7427811954120791864
+    second: Overlay_illumination_67
+  - first:
+      213: 2062934300438790506
+    second: Overlay_illumination_68
+  - first:
+      213: 8663514488042804335
+    second: Overlay_illumination_69
+  - first:
+      213: -4403964320923834587
+    second: Overlay_illumination_70
+  - first:
+      213: -8794178709429585707
+    second: Overlay_illumination_71
+  - first:
+      213: 4716329945502449588
+    second: Overlay_illumination_72
+  - first:
+      213: 238575376962553687
+    second: Overlay_illumination_73
+  - first:
+      213: -413964894655916750
+    second: Overlay_illumination_74
+  - first:
+      213: 5553297850343166419
+    second: Overlay_illumination_75
+  - first:
+      213: 7278972998173152176
+    second: Overlay_illumination_76
+  - first:
+      213: 5367415769661942990
+    second: Overlay_illumination_77
+  - first:
+      213: 5815629706299542244
+    second: Overlay_illumination_78
+  - first:
+      213: -4453475890503753628
+    second: Overlay_illumination_79
+  - first:
+      213: -8737717112907700960
+    second: Overlay_illumination_80
+  - first:
+      213: 3819436481141054887
+    second: Overlay_illumination_81
+  - first:
+      213: 8791385136572013757
+    second: Overlay_illumination_82
+  - first:
+      213: 4775156483642453365
+    second: Overlay_illumination_83
+  - first:
+      213: -4273060128718949657
+    second: Overlay_illumination_84
+  - first:
+      213: 4642297283296742726
+    second: Overlay_illumination_85
+  - first:
+      213: 1868058210935920733
+    second: Overlay_illumination_86
+  - first:
+      213: 2785036934721536241
+    second: Overlay_illumination_87
+  - first:
+      213: 1311312918955850704
+    second: Overlay_illumination_88
+  - first:
+      213: -2141274921559808065
+    second: Overlay_illumination_89
+  - first:
+      213: -4970329218460055053
+    second: Overlay_illumination_90
+  - first:
+      213: -2932845631817848133
+    second: Overlay_illumination_91
+  - first:
+      213: 8682117936646560731
+    second: Overlay_illumination_92
+  - first:
+      213: 461415278250338791
+    second: Overlay_illumination_93
+  - first:
+      213: 1105476607342883947
+    second: Overlay_illumination_94
+  - first:
+      213: 5866479632153968197
+    second: Overlay_illumination_95
+  - first:
+      213: 8567223017168826032
+    second: Overlay_illumination_96
+  - first:
+      213: 2016468293877966507
+    second: Overlay_illumination_97
+  - first:
+      213: -4549563023093691959
+    second: Overlay_illumination_98
+  - first:
+      213: 5985184695820591225
+    second: Overlay_illumination_99
+  - first:
+      213: -8104697448384155915
+    second: Overlay_illumination_100
+  - first:
+      213: 6011270934182942915
+    second: Overlay_illumination_101
+  - first:
+      213: -551942584091195363
+    second: Overlay_illumination_102
+  - first:
+      213: -7547786504128439453
+    second: Overlay_illumination_103
+  - first:
+      213: 3534102151540063782
+    second: Overlay_illumination_104
+  - first:
+      213: 6656246530393733735
+    second: Overlay_illumination_105
+  - first:
+      213: 8788612528611641197
+    second: Overlay_illumination_106
+  - first:
+      213: -7133143573560804198
+    second: Overlay_illumination_107
+  - first:
+      213: 2912075016057297261
+    second: Overlay_illumination_108
+  - first:
+      213: 4497886533064301322
+    second: Overlay_illumination_109
+  - first:
+      213: -803667303447668016
+    second: Overlay_illumination_110
+  - first:
+      213: 4817849787340770545
+    second: Overlay_illumination_111
+  - first:
+      213: 5557721204979466626
+    second: Overlay_illumination_112
+  - first:
+      213: 3857281055255005144
+    second: Overlay_illumination_113
+  - first:
+      213: -7611238775164744056
+    second: Overlay_illumination_114
+  - first:
+      213: 1458291021919831815
+    second: Overlay_illumination_115
+  - first:
+      213: -9121689720082839713
+    second: Overlay_illumination_116
+  - first:
+      213: -3962422526204367888
+    second: Overlay_illumination_117
+  - first:
+      213: -1802740371947417864
+    second: Overlay_illumination_118
+  - first:
+      213: -3213840249912633623
+    second: Overlay_illumination_119
+  - first:
+      213: -6971807258095436217
+    second: Overlay_illumination_120
+  - first:
+      213: 9095213451644122920
+    second: Overlay_illumination_121
+  - first:
+      213: 7833591534105026872
+    second: Overlay_illumination_122
+  - first:
+      213: -3637414324652947769
+    second: Overlay_illumination_123
+  - first:
+      213: 7783189298126785670
+    second: Overlay_illumination_124
+  - first:
+      213: -6066065267446493666
+    second: Overlay_illumination_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Overlay_illumination_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde6636e0241464a0800000000000000
+      internalID: -6601129022284468515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a883e69dba346b0800000000000000
+      internalID: -5313214185021601167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e484b42b91deff0800000000000000
+      internalID: -5319770999599529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52c22e259f11d70800000000000000
+      internalID: 9012258463722251732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7847d85e39490e800800000000000000
+      internalID: 639674510018966663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca8867fea63080d0800000000000000
+      internalID: -3422675591698543929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da4e664cbeb15780800000000000000
+      internalID: -8695959689630954792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998829558dd27f6c0800000000000000
+      internalID: -4109765727780435815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0d8faefdeba1970800000000000000
+      internalID: 8726497096912916714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5287644e492fc9600800000000000000
+      internalID: 476522381893335077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71854a54bd3484d40800000000000000
+      internalID: 5568775548288915479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3917dff0e86ef7a0800000000000000
+      internalID: -6341515909716829892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f947b1982960cd90800000000000000
+      internalID: -7079542991262103048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1072
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb0d6a37eb9d0af0800000000000000
+      internalID: -428514972110353472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd02dc5c311bc950800000000000000
+      internalID: 6470284240600829370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d8913c11a3b1a0800000000000000
+      internalID: -6794910270308690473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8a521d76bb387a0800000000000000
+      internalID: -6376046592861558571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d459f98319d351d0800000000000000
+      internalID: -3363105818773203760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f865c4adace54f8b0800000000000000
+      internalID: -5119362651074570609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2968d46e9dcd3e140800000000000000
+      internalID: 4747881260608489106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1b5a40f78f2d40800000000000000
+      internalID: 5561813530935237543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1184da6fb128059b0800000000000000
+      internalID: -5093428121941751791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc97b5aeb8e486e0800000000000000
+      internalID: -1836086842538615553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc54c1ce752b410800000000000000
+      internalID: 1491351098211289926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d68e2196a27fdcd0800000000000000
+      internalID: -2531178405833046311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_25
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb3e5dd45e2ba6d0800000000000000
+      internalID: -2978235786549380175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b8985e7f1bc1de0800000000000000
+      internalID: -1361017309106697361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_27
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 944
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a196690f661f20800000000000000
+      internalID: 3393021455436457733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f8b26c703b70510800000000000000
+      internalID: 1515376645604347729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf9f42c0b5230e0800000000000000
+      internalID: -2291669152660063242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031f0c60fca2e460800000000000000
+      internalID: 7269562897134457611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9ae71c9eaa49ad0800000000000000
+      internalID: -2696342355937678917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c85db4efa176dc0800000000000000
+      internalID: -3645915693836825463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69ae6c84f946ca0800000000000000
+      internalID: -6024515266591156502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7458625647a54ca0800000000000000
+      internalID: -6033232205320792965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e71a5123bf55d0800000000000000
+      internalID: -3071539465016580118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93773d98f2a8e2a10800000000000000
+      internalID: 1886597230695249721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_37
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5c823347988c50800000000000000
+      internalID: 6667745563188682533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a598b660c03990800000000000000
+      internalID: -7408209839608454731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_39
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af29b2ada11423890800000000000000
+      internalID: -7479844447523728646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_40
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cd020030c2103b0800000000000000
+      internalID: -5548104874545062807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_41
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 816
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67426f398b8496090800000000000000
+      internalID: -8040815702099745674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b579d0d184e6c80800000000000000
+      internalID: -8327639371342193775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0aa1c1e1f91faf0800000000000000
+      internalID: -364335143170957071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0bd07dc6d137950800000000000000
+      internalID: 6445527844998983887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23073ff117aba450800000000000000
+      internalID: 6101153815941546797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9748b2af70def90800000000000000
+      internalID: -6922868281145263650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa03d6318b294740800000000000000
+      internalID: 5136684683963337468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd842a9712e17a00800000000000000
+      internalID: 752631203745795549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f81663f6020fe40800000000000000
+      internalID: 5688081991394758447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0dc3943a0d136f0800000000000000
+      internalID: -706554266793488196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_51
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4c6bfa408971210800000000000000
+      internalID: 1303677763042329784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f7e88191f95f010800000000000000
+      internalID: 1222057804035948290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_53
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c58f85ee3028b0800000000000000
+      internalID: -5179070415799729039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a752c45e212040800000000000000
+      internalID: 4621025634231492756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_55
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 688
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb854393f59efd0800000000000000
+      internalID: -2312212234382032923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021eb67ecdeb753d0800000000000000
+      internalID: -3217893552748240608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875034fb54f3a890800000000000000
+      internalID: -7447840682964658293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2f22ca30967300800000000000000
+      internalID: 249545411406015482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0d2e116a34eec60800000000000000
+      internalID: 7849285581097062605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf76541bf19b4c50800000000000000
+      internalID: 6650569782306701276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3606cbb87338567b0800000000000000
+      internalID: -5231631117530144669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50add81aae1c82900800000000000000
+      internalID: 659990558886713861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa787ee0bef06d70800000000000000
+      internalID: 9034500888373787296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da433cc1f54662d0800000000000000
+      internalID: -3285861973304849711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_65
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330e9bf0f5cd2fa40800000000000000
+      internalID: 5400621204014489651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_66
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7df55c2c85e1a710800000000000000
+      internalID: 1702894524324773243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_67
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ea38c16c1be890800000000000000
+      internalID: -7427811954120791864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a618f9cf0d301ac10800000000000000
+      internalID: 2062934300438790506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_69
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64dd3e868cfa3870800000000000000
+      internalID: 8663514488042804335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52727d788c9f1e2c0800000000000000
+      internalID: -4403964320923834587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8752dae0dc4f580800000000000000
+      internalID: -8794178709429585707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bff535e815c37140800000000000000
+      internalID: 4716329945502449588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75702049a079f4300800000000000000
+      internalID: 238575376962553687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2355d802f1d414af0800000000000000
+      internalID: -413964894655916750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d115a5e8f6411d40800000000000000
+      internalID: 5553297850343166419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b355cd406b140560800000000000000
+      internalID: 7278972998173152176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca7886434ec7a40800000000000000
+      internalID: 5367415769661942990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea8135c76445b050800000000000000
+      internalID: 5815629706299542244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460e1cae5431232c0800000000000000
+      internalID: -4453475890503753628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e84984946db680800000000000000
+      internalID: -8737717112907700960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_81
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad949c4e3d510530800000000000000
+      internalID: 3819436481141054887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_82
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1605f336410a70800000000000000
+      internalID: 8791385136572013757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_83
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d6962a583c44240800000000000000
+      internalID: 4775156483642453365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e272dbd37a03b4c0800000000000000
+      internalID: -4273060128718949657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc9a088c0cc6040800000000000000
+      internalID: 4642297283296742726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d585692ab0dace910800000000000000
+      internalID: 1868058210935920733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08b6c165076a620800000000000000
+      internalID: 2785036934721536241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7eb3f628b23210800000000000000
+      internalID: 1311312918955850704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a9f5cdc9a842e0800000000000000
+      internalID: -2141274921559808065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f981f4e8e7d50bb0800000000000000
+      internalID: -4970329218460055053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_91
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbae07ecf607c47d0800000000000000
+      internalID: -2932845631817848133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_92
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb9dd773441d7870800000000000000
+      internalID: 8682117936646560731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_93
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ac0a30c6476600800000000000000
+      internalID: 461415278250338791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_94
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643d280e11775f00800000000000000
+      internalID: 1105476607342883947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_95
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ef99cb42ce96150800000000000000
+      internalID: 5866479632153968197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_96
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bee5e961f3e4e670800000000000000
+      internalID: 8567223017168826032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_97
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 304
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba62f65ca3febfb10800000000000000
+      internalID: 2016468293877966507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98f3df884bcd0c0800000000000000
+      internalID: -4549563023093691959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ad7d15c5af0350800000000000000
+      internalID: 5985184695820591225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe2c097c94568f80800000000000000
+      internalID: -8104697448384155915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8da98c0135c6350800000000000000
+      internalID: 6011270934182942915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1845d2e42b1758f0800000000000000
+      internalID: -551942584091195363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bdfe41a20e04790800000000000000
+      internalID: -7547786504128439453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3d7eae27ab0130800000000000000
+      internalID: 3534102151540063782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_105
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a7b8df3fcbf5c50800000000000000
+      internalID: 6656246530393733735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_106
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67c17cd78c67f970800000000000000
+      internalID: 8788612528611641197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_107
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3c0e76bbf10d90800000000000000
+      internalID: -7133143573560804198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_108
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69926b5cc4c96820800000000000000
+      internalID: 2912075016057297261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_109
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b9f4398f3bb6e30800000000000000
+      internalID: 4497886533064301322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_110
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad76478dcc8d4f0800000000000000
+      internalID: -803667303447668016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_111
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc43a30bd07cd240800000000000000
+      internalID: 4817849787340770545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28105776dfdf02d40800000000000000
+      internalID: 5557721204979466626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d78159dea0d78530800000000000000
+      internalID: 3857281055255005144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e40a9f8a27f5690800000000000000
+      internalID: -7611238775164744056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7074ca445f3ec3410800000000000000
+      internalID: 1458291021919831815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574123478f396180800000000000000
+      internalID: -9121689720082839713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb259bc4b5a209c0800000000000000
+      internalID: -3962422526204367888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe81dbde216bf6e0800000000000000
+      internalID: -1802740371947417864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6da1302552663d0800000000000000
+      internalID: -3213840249912633623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3bbaac3a2f3f90800000000000000
+      internalID: -6971807258095436217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8273a9d1270b83e70800000000000000
+      internalID: 9095213451644122920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83166d10ff186bc60800000000000000
+      internalID: 7833591534105026872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c42e81fe458dc0800000000000000
+      internalID: -3637414324652947769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0876fd61730c60800000000000000
+      internalID: 7783189298126785670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_illumination_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 48
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e448557c101dba0800000000000000
+      internalID: -6066065267446493666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
